@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/College HND/Semester 1/OOP/CptStache Bad Version/CptStache/Content/dogface.wma</SourceFile>
+  <SourceTime>2019-09-03T13:30:10.6730043+01:00</SourceTime>
+  <DestFile>D:/College HND/Semester 1/OOP/CptStache Bad Version/CptStache/Content/bin/Windows/dogface.xnb</DestFile>
+  <DestTime>2019-09-03T14:37:21.5790753+01:00</DestTime>
+  <Importer>WmaImporter</Importer>
+  <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T15:05:36+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/College HND/Semester 1/OOP/CptStache Bad Version/CptStache/Content/bin/Windows/dogface.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Blobby.Blobby">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Blobby.Blobby.AnimState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Blobby.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAARAAAAAAAIAAAAAACAAAAAAAAgQAAAIBAAAAAAA=</HashCode>
+      <FileName>Blobby.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blobby.Coin">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Blobby.Coin.Menu" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Coin.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAARAAAAAAAIAAAAAACAAQAAAAAAQAAAIBAAAAAAA=</HashCode>
+      <FileName>Coin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blobby.Game1">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEwAAQAAAwAAAAAAAAAAAASAAAgAgAAAACAAIQQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blobby.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blobby.Static2D">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAACAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Static2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

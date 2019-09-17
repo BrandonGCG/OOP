@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/College HND/Semester 1/OOP/CptStache Bad Version/CptStache/Content/background.png</File>
+    <File>D:/College HND/Semester 1/OOP/CptStache Bad Version/CptStache/Content/mo_newgame.png</File>
+    <File>D:/College HND/Semester 1/OOP/CptStache Bad Version/CptStache/Content/newgame.png</File>
+    <File>D:/College HND/Semester 1/OOP/CptStache Bad Version/CptStache/Content/settings.png</File>
+    <File>D:/College HND/Semester 1/OOP/CptStache Bad Version/CptStache/Content/exit.png</File>
+    <File>D:/College HND/Semester 1/OOP/CptStache Bad Version/CptStache/Content/loadgame.png</File>
+    <File>D:/College HND/Semester 1/OOP/CptStache Bad Version/CptStache/Content/mo_exit.png</File>
+    <File>D:/College HND/Semester 1/OOP/CptStache Bad Version/CptStache/Content/mo_loadgame.png</File>
+    <File>D:/College HND/Semester 1/OOP/CptStache Bad Version/CptStache/Content/mo_settings.png</File>
+    <File>D:/College HND/Semester 1/OOP/CptStache Bad Version/CptStache/Content/dogface.wma</File>
+  </SourceFiles>
+</SourceFileCollection>

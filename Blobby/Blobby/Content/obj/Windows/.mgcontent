@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/College HND/Semester 1/OOP/Blobby/Blobby/Content/exit.png</File>
+    <File>D:/College HND/Semester 1/OOP/Blobby/Blobby/Content/help.png</File>
+    <File>D:/College HND/Semester 1/OOP/Blobby/Blobby/Content/play.png</File>
+    <File>D:/College HND/Semester 1/OOP/Blobby/Blobby/Content/background.png</File>
+    <File>D:/College HND/Semester 1/OOP/Blobby/Blobby/Content/blobbity_run_right.png</File>
+    <File>D:/College HND/Semester 1/OOP/Blobby/Blobby/Content/spinning_coin_gold.png</File>
+  </SourceFiles>
+</SourceFileCollection>

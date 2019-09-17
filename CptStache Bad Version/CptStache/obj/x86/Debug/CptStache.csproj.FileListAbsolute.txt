@@ -1,0 +1,72 @@
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\Content\background.xnb
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\CptStache.exe
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\CptStache.pdb
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\ec1823625\source\repos\CptStache\CptStache\obj\x86\Debug\CptStache.csprojAssemblyReference.cache
+c:\users\ec1823625\source\repos\CptStache\CptStache\obj\x86\Debug\CptStache.csproj.CoreCompileInputs.cache
+c:\users\ec1823625\source\repos\CptStache\CptStache\obj\x86\Debug\CptStache.csproj.CopyComplete
+c:\users\ec1823625\source\repos\CptStache\CptStache\obj\x86\Debug\CptStache.exe
+c:\users\ec1823625\source\repos\CptStache\CptStache\obj\x86\Debug\CptStache.pdb
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\Content\mo_newgame.xnb
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\Content\newgame.xnb
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\Content\exit.xnb
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\Content\loadgame.xnb
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\Content\mo_exit.xnb
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\Content\mo_loadgame.xnb
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\Content\mo_settings.xnb
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\Content\settings.xnb
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\Content\dogface.wma
+c:\users\ec1823625\source\repos\CptStache\CptStache\bin\Windows\x86\Debug\Content\dogface.xnb
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\Content\background.xnb
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\Content\dogface.wma
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\Content\dogface.xnb
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\Content\exit.xnb
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\Content\loadgame.xnb
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\Content\mo_exit.xnb
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\Content\mo_loadgame.xnb
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\Content\mo_newgame.xnb
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\Content\mo_settings.xnb
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\Content\newgame.xnb
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\Content\settings.xnb
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\CptStache.exe
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\CptStache.pdb
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.dll
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.xml
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\obj\x86\Debug\CptStache.csprojAssemblyReference.cache
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\obj\x86\Debug\CptStache.csproj.CoreCompileInputs.cache
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\obj\x86\Debug\CptStache.csproj.CopyComplete
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\obj\x86\Debug\CptStache.exe
+D:\College HND\Semester 1\OOP\CptStache Bad Version\CptStache\obj\x86\Debug\CptStache.pdb
