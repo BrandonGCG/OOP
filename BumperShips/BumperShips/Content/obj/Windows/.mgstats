@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/asteroid.png","C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/bin/Windows/asteroid.xnb","TextureProcessor","Texture2DContent",4614,65621,1.934515
+"C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/direction.png","C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/bin/Windows/direction.xnb","TextureProcessor","Texture2DContent",368,1685,0.0189986
+"C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/falcon.png","C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/bin/Windows/falcon.xnb","TextureProcessor","Texture2DContent",3209,4885,0.1496808
+"C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/shield.png","C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/bin/Windows/shield.xnb","TextureProcessor","Texture2DContent",3051,6485,0.0709976
+"C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/stars800.png","C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/bin/Windows/stars800.xnb","TextureProcessor","Texture2DContent",187363,1920085,0.1529976
+"C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/warp.png","C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/bin/Windows/warp.xnb","TextureProcessor","Texture2DContent",10467,131157,0.0530705

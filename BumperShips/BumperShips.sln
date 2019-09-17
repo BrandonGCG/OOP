@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BumperShips", "BumperShips\BumperShips.csproj", "{4D092300-9103-42B3-B8F2-E98D1B0AEB26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D092300-9103-42B3-B8F2-E98D1B0AEB26}.Debug|x86.ActiveCfg = Debug|x86
+		{4D092300-9103-42B3-B8F2-E98D1B0AEB26}.Debug|x86.Build.0 = Debug|x86
+		{4D092300-9103-42B3-B8F2-E98D1B0AEB26}.Release|x86.ActiveCfg = Release|x86
+		{4D092300-9103-42B3-B8F2-E98D1B0AEB26}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B71D403-FCA9-4123-A637-EFB2D41F7CDE}
+	EndGlobalSection
+EndGlobal

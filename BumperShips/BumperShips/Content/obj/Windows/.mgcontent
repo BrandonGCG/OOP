@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/asteroid.png</File>
+    <File>C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/direction.png</File>
+    <File>C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/falcon.png</File>
+    <File>C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/shield.png</File>
+    <File>C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/stars800.png</File>
+    <File>C:/Users/Laptop/Documents/GitHub/OOP/BumperShips/BumperShips/Content/warp.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
