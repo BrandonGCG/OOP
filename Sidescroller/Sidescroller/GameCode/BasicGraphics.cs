@@ -104,5 +104,4 @@ namespace Sidescroller
             sBatch.Draw(m_txr, m_rect, m_srcRect, Color.White);
         }
     }
-
 }

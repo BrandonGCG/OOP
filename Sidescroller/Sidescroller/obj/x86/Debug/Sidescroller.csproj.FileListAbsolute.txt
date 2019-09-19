@@ -102,3 +102,4 @@ C:\OOP\Sidescroller\Sidescroller\obj\x86\Debug\Sidescroller.exe
 C:\OOP\Sidescroller\Sidescroller\obj\x86\Debug\Sidescroller.pdb
 C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\Menu.xnb
 C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\UI.xnb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\Textures\bomb.xnb

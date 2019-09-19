@@ -128,4 +128,30 @@ namespace Sidescroller
             m_position = m_position + m_velocity;
         }
     }
+
+    class Pickup : Animated2D
+    {
+        private DroneState m_state;
+        public DroneState State
+        {
+            get
+            {
+                return m_state;
+            }
+        }
+        public Pickup(Texture2D txr, Rectangle rect, int fps, GameTime gt) : base(txr, fps, rect)
+        {
+           
+        }
+
+        public override void updateme(GameTime gt)
+        {
+            base.updateme(gt);
+
+            if (m_rect.Right < 0)
+            {
+                m_state = DroneState.dead;
+            }
+        }
+    }
 }

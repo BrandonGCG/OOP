@@ -42,6 +42,7 @@ namespace Sidescroller
         int dronesPerSpawn;
         List<Drone> dronelist;
         List<Explosion> explosions;
+        List<Pickup> bombs;
 
         //Sound
         SoundEffect droneExplode, droneEscape, rocketLaunch;
@@ -126,6 +127,10 @@ namespace Sidescroller
                 Exit();
 
             // TODO: Add your update logic here
+            for (int i = 0; i < DUSTPARTICLES; i++)
+            {
+                dustlist[i].updateme(gameTime);
+            }
 
             //Utility
             mouse_curr = Mouse.GetState();
@@ -145,6 +150,7 @@ namespace Sidescroller
                         droneTriggerCountdown = droneSpawnRate;
                         dronelist = new List<Drone>();
                         explosions = new List<Explosion>();
+                        bombs = new List<Pickup>();
 
                         gameState = GameState.Game;
                     }
@@ -167,6 +173,21 @@ namespace Sidescroller
                             dronelist.RemoveAt(i);
                         }
                     }
+                    for (int i = 0; i < bombs.Count; i++)
+                    {
+                        if (p1Ship.Rect.Intersects(bombs[i].Rect))
+                        {
+                            for (int j = 0; j < dronelist.Count; j++)
+                            {
+                                explosions.Add(new Explosion(Content.Load<Texture2D>("Textures\\explosion"), new Rectangle(dronelist[j].Rect.X, dronelist[j].Rect.Y, 25, 25), 5, gameTime));
+                                score += DRONEDESTROYED;
+                                droneExplode.Play();
+                                dronelist.RemoveAt(j);
+                                j--;
+                            }
+                            bombs.RemoveAt(i);
+                        }
+                    }
                     #region rocket handler
                     crosshairAngle = (float)Math.Atan2(mouse_curr.Y - p1Ship.Rect.Y, mouse_curr.X - p1Ship.Rect.X);
 
@@ -180,6 +201,10 @@ namespace Sidescroller
                                 if (rockets[i].Rect.Intersects(dronelist[j].Rect))
                                 {
                                     explosions.Add(new Explosion(Content.Load<Texture2D>("Textures\\explosion"), new Rectangle(dronelist[j].Rect.X, dronelist[j].Rect.Y, 25, 25), 5, gameTime));
+                                    if (RNG.Next(10) == 1)
+                                    {
+                                        bombs.Add(new Pickup(Content.Load<Texture2D>("Textures\\bomb"), new Rectangle(dronelist[j].Rect.X, dronelist[j].Rect.Y, 16, 16), 5, gameTime));
+                                    }
                                     score += DRONEDESTROYED;
                                     droneExplode.Play();
                                     rockets.RemoveAt(i);
@@ -216,10 +241,7 @@ namespace Sidescroller
                     #endregion
 
                     //Environment and Enemies
-                    for (int i = 0; i < DUSTPARTICLES; i++)
-                    {
-                        dustlist[i].updateme(gameTime);
-                    }
+
 
                     #region drone handler
                     for (int i = 0; i < dronelist.Count; i++)
@@ -263,6 +285,17 @@ namespace Sidescroller
                             explosions[i].updateme(gameTime);
                         }
                     }
+                    for (int i = 0; i < bombs.Count; i++)
+                    {
+                        if (bombs[i].State == DroneState.dead)
+                        {
+                            bombs.RemoveAt(i);
+                        }
+                        else
+                        {
+                            bombs[i].updateme(gameTime);
+                        }
+                    }
                     break;
                 case GameState.GameOver:
                     if(kb_curr.IsKeyDown(Keys.Space))
@@ -299,7 +332,7 @@ namespace Sidescroller
             switch (gameState)
             {
                 case GameState.Menu:
-                    spriteBatch.DrawString(menufont, "PRESS SPACEBAR TO PLAY", new Vector2(100, 200), Color.White);
+                    spriteBatch.DrawString(menufont, "PRESS SPACEBAR TO PLAY", new Vector2(graphics.PreferredBackBufferWidth / 2 - menufont.MeasureString("PRESS SPACEBAR TO PLAY").X / 2, graphics.PreferredBackBufferHeight / 2 - menufont.MeasureString("PRESS SPACEBAR TO PLAY").Y / 2), Color.White);
                     break;
                 case GameState.Game:
                     //Environment and Enemies
@@ -311,6 +344,10 @@ namespace Sidescroller
                     for (int i = 0; i < explosions.Count; i++)
                     {
                         explosions[i].drawme(spriteBatch);
+                    }
+                    for (int i = 0; i < bombs.Count; i++)
+                    {
+                        bombs[i].drawme(spriteBatch);
                     }
                     #endregion
 
@@ -348,8 +385,8 @@ namespace Sidescroller
                     }
                     break;
                 case GameState.GameOver:
-                    spriteBatch.DrawString(menufont, "PRESS SPACEBAR TO RESTART", new Vector2(80, 200), Color.White);
-                    spriteBatch.DrawString(menufont, "SCORE: " + score, new Vector2(80, 240), Color.White);
+                    spriteBatch.DrawString(menufont, "PRESS SPACEBAR TO RESTART", new Vector2(graphics.PreferredBackBufferWidth / 2 - menufont.MeasureString("PRESS SPACEBAR TO RESTART").X / 2, graphics.PreferredBackBufferHeight / 2 - menufont.MeasureString("PRESS SPACEBAR TO RESTART").Y / 2), Color.White);
+                    spriteBatch.DrawString(menufont, "SCORE: " + score, new Vector2(graphics.PreferredBackBufferWidth / 2 - menufont.MeasureString("SCORE: " + score).X / 2, graphics.PreferredBackBufferHeight / 2 - menufont.MeasureString("SCORE: " + score).Y / 2 + 35), Color.White);
                     break;
             }
 
