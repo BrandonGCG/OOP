@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/OOP/Sidescroller/Sidescroller/Content/Audio/Drone Explode.wav</SourceFile>
+  <SourceTime>2017-06-06T07:40:52+01:00</SourceTime>
+  <DestFile>C:/OOP/Sidescroller/Sidescroller/Content/bin/Windows/Audio/Drone Explode.xnb</DestFile>
+  <DestTime>2019-09-19T09:14:50.7632105+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T15:05:36+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

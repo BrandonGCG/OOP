@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/OOP/Sidescroller/Sidescroller/Content/Textures/rtype ship9.png</SourceFile>
-  <SourceTime>2019-09-19T09:09:14.6756157+01:00</SourceTime>
-  <DestFile>C:/OOP/Sidescroller/Sidescroller/Content/bin/Windows/Textures/rtype ship9.xnb</DestFile>
-  <DestTime>2019-09-19T09:14:45.8686743+01:00</DestTime>
+  <SourceFile>C:/OOP/Sidescroller/Sidescroller/Content/Textures/bomb.png</SourceFile>
+  <SourceTime>2017-11-14T13:10:36.6969814+00:00</SourceTime>
+  <DestFile>C:/OOP/Sidescroller/Sidescroller/Content/bin/Windows/Textures/bomb.xnb</DestFile>
+  <DestTime>2019-09-19T10:52:39.912492+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
