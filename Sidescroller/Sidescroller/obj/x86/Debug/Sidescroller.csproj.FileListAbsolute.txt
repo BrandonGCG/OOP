@@ -64,3 +64,41 @@ E:\College HND\Semester 1\OOP\Sidescroller\Sidescroller\obj\x86\Debug\Sidescroll
 E:\College HND\Semester 1\OOP\Sidescroller\Sidescroller\obj\x86\Debug\Sidescroller.csproj.CopyComplete
 E:\College HND\Semester 1\OOP\Sidescroller\Sidescroller\obj\x86\Debug\Sidescroller.exe
 E:\College HND\Semester 1\OOP\Sidescroller\Sidescroller\obj\x86\Debug\Sidescroller.pdb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\Textures\crosshair2.xnb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\Textures\explosion.xnb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\Textures\pixel.xnb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\Textures\rtype evilrocket.xnb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\Textures\rtype rocket.xnb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\Textures\rtype ship9.xnb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\Textures\starfield.xnb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\Audio\Drone Escape.xnb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\Audio\Drone Explode.xnb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\Audio\Rocket Launch.xnb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\debug.xnb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Sidescroller.exe
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Sidescroller.pdb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.dll
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.xml
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\OOP\Sidescroller\Sidescroller\obj\x86\Debug\Sidescroller.csprojAssemblyReference.cache
+C:\OOP\Sidescroller\Sidescroller\obj\x86\Debug\Sidescroller.csproj.CoreCompileInputs.cache
+C:\OOP\Sidescroller\Sidescroller\obj\x86\Debug\Sidescroller.csproj.CopyComplete
+C:\OOP\Sidescroller\Sidescroller\obj\x86\Debug\Sidescroller.exe
+C:\OOP\Sidescroller\Sidescroller\obj\x86\Debug\Sidescroller.pdb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\Menu.xnb
+C:\OOP\Sidescroller\Sidescroller\bin\Windows\x86\Debug\Content\UI.xnb

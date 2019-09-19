@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/OOP/Sidescroller/Sidescroller/Content/debug.spritefont</SourceFile>
-  <SourceTime>2019-09-19T09:09:14.691207+01:00</SourceTime>
-  <DestFile>C:/OOP/Sidescroller/Sidescroller/Content/bin/Windows/debug.xnb</DestFile>
-  <DestTime>2019-09-19T09:14:47.0907667+01:00</DestTime>
+  <SourceFile>C:/OOP/Sidescroller/Sidescroller/Content/UI.spritefont</SourceFile>
+  <SourceTime>2019-09-19T09:55:36.9937662+01:00</SourceTime>
+  <DestFile>C:/OOP/Sidescroller/Sidescroller/Content/bin/Windows/UI.xnb</DestFile>
+  <DestTime>2019-09-19T09:55:41.6104027+01:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>
