@@ -41,6 +41,7 @@ namespace Sidescroller
         float droneTriggerCountdown;
         int dronesPerSpawn;
         List<Drone> dronelist;
+        List<Seeker> seekers;
         List<Explosion> explosions;
         List<Pickup> bombs;
 
@@ -149,6 +150,7 @@ namespace Sidescroller
                         //Environment and Enemies
                         droneTriggerCountdown = droneSpawnRate;
                         dronelist = new List<Drone>();
+                        seekers = new List<Seeker>();
                         explosions = new List<Explosion>();
                         bombs = new List<Pickup>();
 
@@ -258,6 +260,20 @@ namespace Sidescroller
                         }
                     }
 
+                    for (int i = 0; i < seekers.Count; i++)
+                    {
+                        if (seekers[i].State == DroneState.dead)
+                        {
+                            seekers.RemoveAt(i);
+                            score += DRONEESCAPED;
+                            droneEscape.Play();
+                        }
+                        else
+                        {
+                            seekers[i].updateme(gameTime, p1Ship.Rect);
+                        }
+                    }
+
                     if (droneTriggerCountdown > 0)
                     {
                         droneTriggerCountdown -= (float)gameTime.ElapsedGameTime.TotalSeconds;
@@ -268,6 +284,10 @@ namespace Sidescroller
                         for (int i = 0; i < dronesPerSpawn; i++)
                         {
                             dronelist.Add(new Drone(Content.Load<Texture2D>("Textures\\rtype evilrocket"), new Rectangle(0, 0, 27, 13), 5, gameTime, graphics.PreferredBackBufferHeight, graphics.PreferredBackBufferWidth));
+                        }
+                        if (dronesPerSpawn <= 1)
+                        {
+                            seekers.Add(new Seeker(Content.Load<Texture2D>("Textures\\rtype evilrocket"), new Rectangle(0, 0, 27, 13), 5, gameTime, graphics.PreferredBackBufferHeight, graphics.PreferredBackBufferWidth));
                         }
                         droneSpawnRate -= 0.1f;
                         droneTriggerCountdown = droneSpawnRate;
@@ -340,6 +360,10 @@ namespace Sidescroller
                     for (int i = 0; i < dronelist.Count; i++)
                     {
                         dronelist[i].drawme(spriteBatch);
+                    }
+                    for (int i = 0; i < seekers.Count; i++)
+                    {
+                        seekers[i].drawme(spriteBatch);
                     }
                     for (int i = 0; i < explosions.Count; i++)
                     {

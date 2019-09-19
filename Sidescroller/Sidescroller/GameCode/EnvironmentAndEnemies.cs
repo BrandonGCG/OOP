@@ -97,6 +97,35 @@ namespace Sidescroller
         }
     }
 
+    class Seeker : Drone
+    {
+
+        private float m_rot;
+
+        public Seeker(Texture2D txr, Rectangle rect, int fps, GameTime gt, int screenHeight, int screenWidth) : base(txr, rect, fps, gt, screenHeight, screenWidth)
+        {
+
+        }
+
+        public void updateme(GameTime gt, Rectangle pShip)
+        {
+            base.updateme(gt);
+
+            m_rot = m_rot = (float)Math.Atan2(pShip.Y, pShip.X);
+            
+            if (m_position.Y <= pShip.Y)
+            {
+                m_velocity.Y = m_velocity.Y + 100;
+            }
+            else if (m_position.Y >= pShip.Y)
+            {
+                m_velocity.Y = m_velocity.Y - 100;
+            }
+
+            m_velocity.Y = m_velocity.Y * (float)gt.ElapsedGameTime.TotalSeconds;
+        }
+    }
+
     class Explosion : Animated2D
     {
         private DroneState m_state;

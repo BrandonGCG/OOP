@@ -4,19 +4,19 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/OOP/Sidescroller/Sidescroller/Content/Textures/crosshair2.png</File>
-    <File>C:/OOP/Sidescroller/Sidescroller/Content/Textures/explosion.png</File>
-    <File>C:/OOP/Sidescroller/Sidescroller/Content/Textures/pixel.png</File>
-    <File>C:/OOP/Sidescroller/Sidescroller/Content/Textures/rtype evilrocket.png</File>
-    <File>C:/OOP/Sidescroller/Sidescroller/Content/Textures/rtype rocket.png</File>
-    <File>C:/OOP/Sidescroller/Sidescroller/Content/Textures/rtype ship9.png</File>
-    <File>C:/OOP/Sidescroller/Sidescroller/Content/Textures/starfield.jpg</File>
-    <File>C:/OOP/Sidescroller/Sidescroller/Content/debug.spritefont</File>
-    <File>C:/OOP/Sidescroller/Sidescroller/Content/Audio/Drone Escape.wav</File>
-    <File>C:/OOP/Sidescroller/Sidescroller/Content/Audio/Drone Explode.wav</File>
-    <File>C:/OOP/Sidescroller/Sidescroller/Content/Audio/Rocket Launch.wav</File>
-    <File>C:/OOP/Sidescroller/Sidescroller/Content/Menu.spritefont</File>
-    <File>C:/OOP/Sidescroller/Sidescroller/Content/UI.spritefont</File>
-    <File>C:/OOP/Sidescroller/Sidescroller/Content/Textures/bomb.png</File>
+    <File>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/Textures/crosshair2.png</File>
+    <File>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/Textures/explosion.png</File>
+    <File>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/Textures/pixel.png</File>
+    <File>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/Textures/rtype evilrocket.png</File>
+    <File>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/Textures/rtype rocket.png</File>
+    <File>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/Textures/rtype ship9.png</File>
+    <File>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/Textures/starfield.jpg</File>
+    <File>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/debug.spritefont</File>
+    <File>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/Audio/Drone Escape.wav</File>
+    <File>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/Audio/Drone Explode.wav</File>
+    <File>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/Audio/Rocket Launch.wav</File>
+    <File>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/Menu.spritefont</File>
+    <File>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/UI.spritefont</File>
+    <File>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/Textures/bomb.png</File>
   </SourceFiles>
 </SourceFileCollection>

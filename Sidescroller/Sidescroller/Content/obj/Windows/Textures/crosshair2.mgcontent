@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/OOP/Sidescroller/Sidescroller/Content/Textures/crosshair2.png</SourceFile>
-  <SourceTime>2019-09-19T09:09:14.66002+01:00</SourceTime>
-  <DestFile>C:/OOP/Sidescroller/Sidescroller/Content/bin/Windows/Textures/crosshair2.xnb</DestFile>
-  <DestTime>2019-09-19T09:14:45.7483437+01:00</DestTime>
+  <SourceFile>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/Textures/crosshair2.png</SourceFile>
+  <SourceTime>2019-09-10T13:53:11.0682276+01:00</SourceTime>
+  <DestFile>D:/College HND/Semester 1/OOP/Sidescroller/Sidescroller/Content/bin/Windows/Textures/crosshair2.xnb</DestFile>
+  <DestTime>2019-09-19T11:41:41.6569141+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
